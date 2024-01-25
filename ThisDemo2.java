@@ -35,3 +35,14 @@ public class ThisDemo2
           o1.display();
     }    
 }
+
+/*
+ output:
+ single param constructor....
+double param constructor
+triple param constructor
+instance method...      
+a:      0
+b:      0
+c:      0
+ */
